@@ -8,7 +8,7 @@ I am Nicolas, a software engineer currently completing a Ph.D. student at Univer
 - Software development: Proficient in React, Node, JS, HTML/CSS, LaTeX and Solidity / Aiming to learn in-depth Rust and Anchor 🦀
 - Software architecture and engineering: software product lines
 
-## Main public projects
+## 🚧 Main public projects
 - (current) [Ph.D. thesis](https://nicosix.com/files/draft.pdf) / [Harmonica project](https://github.com/harmonica-project): facilitating the design and implementation of blockchain applications by recommanding a blockchain technology, design patterns, and generating parts of the application
 - (current) Coupling software product lines (SPLs) and blockchain technologies: currently doing research on designing a SPL with an adequate product line architecture to generate blockchain application scaffoldings
 - (past, 2019) Producing tutorials for Azure blockchain cloud services at Microsoft: 
