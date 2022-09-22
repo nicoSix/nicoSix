@@ -21,7 +21,7 @@ I am Nicolas, a software engineer currently completing a Ph.D. student at Univer
 - Six, Nicolas, et al. "Using software product lines to create blockchain products: application to supply chain traceability." Proceedings of the 26th ACM International Systems and Software Product Line Conference-Volume A. 2022.
 - Six, Nicolas, Nicolas Herbaut, and Camille Salinesi. "Blockchain software patterns for the design of decentralized applications: A systematic literature review." Blockchain: Research and Applications (2022): 100061.
 
-Other publications are accessible on my [Google Scholar profile)[https://scholar.google.fr/citations?user=jjmJ5MIAAAAJ&hl=en].
+Other publications are accessible on my [Google Scholar profile](https://scholar.google.fr/citations?user=jjmJ5MIAAAAJ&hl=en).
 
 
 ## 👊🏻 Follow me
