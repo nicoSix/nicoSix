@@ -28,7 +28,7 @@ Other publications are accessible on my [Google Scholar profile](https://scholar
 
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=nicothesixth&color=1DA1F2&style=for-the-badge&logo=twitter)][twitter]
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=nicothesixth&color=7289DA&style=for-the-badge&logo=discord)][discord]
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=nicoSix#5641&color=7289DA&style=for-the-badge&logo=discord)][discord]
 
 [![StackOverFlow](https://img.shields.io/static/v1?label=StackOverflow&message=nicolas-six&color=FE7A16&style=for-the-badge&logo=stack-overflow)][stack_overflow]
 
