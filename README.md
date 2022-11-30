@@ -34,8 +34,6 @@ Other publications are accessible on my [Google Scholar profile](https://scholar
 
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=nicolas-six&color=1DA1F2&style=for-the-badge&logo=linkedin)][linkedin]
 
-[![Email](https://img.shields.io/static/v1?label=Email&message=nicolas.six.fr@gmail.com&color=lightgrey&style=for-the-badge&logo=maildotru)](mailto:nicolas.six.fr@gmail.com)
-
 ## ⚡ Github Stats
 
 <img align="left" alt="Nicolas Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicoSix&theme=blue-green&show_icons=true&hide_border=true" />
